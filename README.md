@@ -1,6 +1,5 @@
  # Información
               Laboratorio basico de GIT y GITHUB
-              Realizado por: "Nombre completo y apellidos"
-              Profesión: "Nombre de su profesión"
-              Motivación: "Breve descripcion que explique tu motivación principal de pertenecer a un área de 
-              desarrollo de software"
+              Realizado por: "Jose Manuel Romero Jimenez"
+              Profesión: "Ingenieria de Sistemas"
+              Motivación: "Cuando inicie en el mundo de la programacion y desarrollo, no me gustaba en lo mas minimo y me parecia algo complicado y difil de entender, a medida que pasaba los semestres en la universidad, los proyectos de integración se profundizaban cada ves mas en el área de desarrollo, me fui involucrando poco a poco en este mundo adquiriendo nuevos conocimientos en lenguajes de programación, herramientas, mejores practicas, calidad, etc.. Así fui creando mis propios proyectos cada ves mas complejos, en pocas palabras decidí enfocar mi profesión en el desarrollo de software; ya que puedo crear una infinidad de soluciones, con solo tener lógica, imaginación y ganas de aprender cosas nuevas cada días"
